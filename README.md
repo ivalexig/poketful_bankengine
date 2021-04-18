@@ -50,7 +50,7 @@ The app was desinged for the phone screen size, but will work perfectly fine on 
 
 Big thanks to the Team:
 
-- David Ting [@davetingbro](https://github.com/davetingbro)
+- David Ting [@david-ting-dt](https://github.com/david-ting-dt)
 - Will Cook [@willcook4](https://github.com/willcook4)
 - Alex Ivanov [@ivalexig](https://github.com/ivalexig)
 - Steve Adams
